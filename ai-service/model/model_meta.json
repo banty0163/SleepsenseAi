@@ -1,0 +1,26 @@
+{
+  "features": [
+    "age",
+    "gender",
+    "sleep_duration",
+    "stress_level",
+    "bmi",
+    "heart_rate",
+    "physical_activity",
+    "snoring_frequency",
+    "daytime_sleepiness",
+    "sleep_interruptions"
+  ],
+  "disorders": [
+    "None",
+    "Insomnia",
+    "Sleep Apnea",
+    "Narcolepsy",
+    "Restless Legs Syndrome"
+  ],
+  "test_accuracy": 0.969,
+  "cv_accuracy_mean": 0.9625,
+  "cv_accuracy_std": 0.0058,
+  "n_train_samples": 4000,
+  "n_test_samples": 1000
+}
